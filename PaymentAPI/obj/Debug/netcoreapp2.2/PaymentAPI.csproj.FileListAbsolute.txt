@@ -1,0 +1,14 @@
+D:\MyStuff\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.deps.json
+D:\MyStuff\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.runtimeconfig.json
+D:\MyStuff\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.runtimeconfig.dev.json
+D:\MyStuff\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.dll
+D:\MyStuff\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.pdb
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.csproj.CoreCompileInputs.cache
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorAssemblyInfo.cache
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorAssemblyInfo.cs
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.AssemblyInfoInputs.cache
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.AssemblyInfo.cs
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorTargetAssemblyInfo.cache
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.dll
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.pdb
+D:\MyStuff\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.csprojAssemblyReference.cache
